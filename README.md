@@ -1,5 +1,7 @@
 # QuickShopのアイテム翻訳ツール
 
+![2023-11-28_19h28_41](https://github.com/Kamesuta/ItemTranslationGenerator/assets/16362824/7e9dc11f-cadb-4684-94f3-2711dd7fca52)
+
 QuickShopの翻訳ファイル `itemi18n.yml`, `enchi18n.yml`, `potioni18n.yml` を翻訳するためのツールです。
 
 ## 使い方
