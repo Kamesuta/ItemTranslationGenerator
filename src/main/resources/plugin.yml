@@ -1,0 +1,4 @@
+name: ItemTranslationGenerator
+version: '${project.version}'
+main: com.kamesuta.itemtranslationgenerator.ItemTranslationGenerator
+api-version: '1.20'
